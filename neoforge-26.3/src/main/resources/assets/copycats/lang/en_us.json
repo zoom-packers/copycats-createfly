@@ -111,5 +111,16 @@
     "tooltip.copycats.characteristics.pre_assembled.description": "Disassemble _individual parts_ after placement.",
     "tooltip.copycats.characteristics.pre_assembled.title": "Pre-assembled",
     "tooltip.copycats.characteristics.stackable.description": "R-click with the same copycat to _enlarge_.",
-    "tooltip.copycats.characteristics.stackable.title": "Stackable"
+    "tooltip.copycats.characteristics.stackable.title": "Stackable",
+    "tag.item.copycats.copycat_beam": "Copycat Beams",
+    "tag.item.copycats.copycat_block": "Copycat Blocks",
+    "tag.item.copycats.copycat_board": "Copycat Boards",
+    "tag.item.copycats.copycat_box": "Copycat Boxes",
+    "tag.item.copycats.copycat_catwalk": "Copycat Catwalks",
+    "tag.item.copycats.copycat_fence": "Copycat Fences",
+    "tag.item.copycats.copycat_fence_gate": "Copycat Fence Gates",
+    "tag.item.copycats.copycat_slab": "Copycat Slabs",
+    "tag.item.copycats.copycat_stairs": "Copycat Stairs",
+    "tag.item.copycats.copycat_vertical_step": "Copycat Vertical Steps",
+    "tag.item.copycats.copycat_wall": "Copycat Walls"
 }
